@@ -143,7 +143,7 @@ extern struct Angle generate_global_angles( int angle_step ) ;
 extern struct Angle generate_range_of_angles( int angle_step , int angle_range , int z_twist , int theta , int phi ) ;
 
 extern int gord( float position , float grid_span , int grid_size ) ;
-extern float pythagoras( float x1 , float y1 , float z1 , float x2 , float y2 , float z2 ) ;
+extern inline float pythagoras( float x1 , float y1 , float z1 , float x2 , float y2 , float z2 ) ;
 
 extern void discretise_structure( struct Structure This_Structure , float grid_span , int grid_size , fftw_real *grid ) ;
 extern void surface_grid( float grid_span , int grid_size , fftw_real *grid , float surface , float internal_value ) ;

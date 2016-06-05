@@ -1,3 +1,7 @@
+build
+ftdock
+randomspin
+
 # Object files
 *.o
 *.ko
