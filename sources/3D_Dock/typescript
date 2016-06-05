@@ -1,0 +1,402 @@
+Script started on Sun Jun  5 19:15:17 2016
+[1m[7m%[27m[1m[0m                                                                                                                                                                                                                   ]2;j@J: ~/projects/finalProject1516q2/sources/3D_Dock]1;..urces/3D_Dock[0m[27m[24m[J[33m3D_Dock ➤ [00m[K[199C[33m [00m[200D[?1h=scripts[?1l>
+]2;scripts]1;scripts[1m[7m%[27m[1m[0m                                                                                                                                                                                                                   ]2;j@J: ~/projects/finalProject1516q2/sources/3D_Dock/scripts]1;.._Dock/scripts[0m[27m[24m[J[33mscripts ➤ [00m[K[199C[33m [00m[200D[?1h=lls[?1l>
+]2;ls -G]1;ls[31mPDB_Parse.pm[39;49m[0m             [31mPDB_Types.pm[39;49m[0m             [31mchange-pdb-chain-id.perl[39;49m[0m [31mpreprocess-pdb.perl[39;49m[0m
+[1m[7m%[27m[1m[0m                                                                                                                                                                                                                   ]2;j@J: ~/projects/finalProject1516q2/sources/3D_Dock/scripts]1;.._Dock/scripts[0m[27m[24m[J[33mscripts ➤ [00m[K[199C[33m [00m[200D[?1h=...[?1l>
+]2;..]1;..[1m[7m%[27m[1m[0m                                                                                                                                                                                                                   ]2;j@J: ~/projects/finalProject1516q2/sources/3D_Dock]1;..urces/3D_Dock[0m[27m[24m[J[33m3D_Dock ➤ [00m[K[199C[33m [00m[200D[?1h=lls[?1l>
+]2;ls -G]1;ls[31mCOPYING[39;49m[0m    [31mCOPYRIGHT[39;49m[0m  [34mprogs[39;49m[0m      [34mscripts[39;49m[0m    typescript
+[1m[7m%[27m[1m[0m                                                                                                                                                                                                                   ]2;j@J: ~/projects/finalProject1516q2/sources/3D_Dock]1;..urces/3D_Dock[0m[27m[24m[J[33m3D_Dock ➤ [00m[K[199C[33m [00m[200D[?1h=ccat typescript[1m [0m[0m [?1l>
+]2;cat typescript]1;catScript started on Sun Jun  5 19:15:17 2016
+[1m[7m%[27m[1m[0m                                                                                                                                                                                                                   ]2;j@J: ~/projects/finalProject1516q2/sources/3D_Dock]1;..urces/3D_Dock[0m[27m[24m[J[33m3D_Dock ➤ [00m[K[199C[33m [00m[200D[?1h=...[?1l>
+]2;..]1;..[1m[7m%[27m[1m[0m                                                                                                                                                                                                                   ]2;j@J: ~/projects/finalProject1516q2/sources]1;..516q2/sources[0m[27m[24m[J[33msources ➤ [00m[K[199C[33m [00m[200D[?1h=lls[?1l>
+]2;ls -G]1;ls[34m3D_Dock[39;49m[0m                [34mfftw-2.1.3[39;49m[0m             fftw-2.1.3.tar.gz      gnu_licensed_3D.tar.gz
+[1m[7m%[27m[1m[0m                                                                                                                                                                                                                   ]2;j@J: ~/projects/finalProject1516q2/sources]1;..516q2/sources[0m[27m[24m[J[33msources ➤ [00m[K[199C[33m [00m[200D[?1h=...[?1l>
+]2;..]1;..[1m[7m%[27m[1m[0m                                                                                                                                                                                                                   ]2;j@J: ~/projects/finalProject1516q2]1;..Project1516q2[0m[27m[24m[J[33mfinalProject1516q2 ➤ [00m[K[188C[33m [00m[189D[?1h=lls[?1l>
+]2;ls -G]1;ls[34mdoc[39;49m[0m     [34minputs[39;49m[0m  [34moutputs[39;49m[0m [34msources[39;49m[0m
+[1m[7m%[27m[1m[0m                                                                                                                                                                                                                   ]2;j@J: ~/projects/finalProject1516q2]1;..Project1516q2[0m[27m[24m[J[33mfinalProject1516q2 ➤ [00m[K[188C[33m [00m[189D[?1h=ooutputs[1m/[0m[0m [?1l>
+]2;outputs]1;outputs[1m[7m%[27m[1m[0m                                                                                                                                                                                                                   ]2;j@J: ~/projects/finalProject1516q2/outputs]1;..516q2/outputs[0m[27m[24m[J[33moutputs ➤ [00m[K[199C[33m [00m[200D[?1h=lls[?1l>
+]2;ls -G]1;ls[31mtest1.output[39;49m[0m [31mtest2.output[39;49m[0m [31mtest3.output[39;49m[0m [31mtest4.output[39;49m[0m
+[1m[7m%[27m[1m[0m                                                                                                                                                                                                                   ]2;j@J: ~/projects/finalProject1516q2/outputs]1;..516q2/outputs[0m[27m[24m[J[33moutputs ➤ [00m[K[199C[33m [00m[200D[?1h=...[?1l>
+]2;..]1;..[1m[7m%[27m[1m[0m                                                                                                                                                                                                                   ]2;j@J: ~/projects/finalProject1516q2]1;..Project1516q2[0m[27m[24m[J[33mfinalProject1516q2 ➤ [00m[K[188C[33m [00m[189D[?1h=iinputs[1m/[0m[0m [?1l>
+]2;inputs]1;inputs[1m[7m%[27m[1m[0m                                                                                                                                                                                                                   ]2;j@J: ~/projects/finalProject1516q2/inputs]1;..1516q2/inputs[0m[27m[24m[J[33minputs ➤ [00m[K[200C[33m [00m[201D[?1h=lls[?1l>
+]2;ls -G]1;ls1ACB_lig.parsed 1ACB_rec.parsed 1hba.parsed     2kai.parsed     2pka.parsed     4hhb.parsed     5pti.parsed
+[1m[7m%[27m[1m[0m                                                                                                                                                                                                                   ]2;j@J: ~/projects/finalProject1516q2/inputs]1;..1516q2/inputs[0m[27m[24m[J[33minputs ➤ [00m[K[200C[33m [00m[201D[?1h=...[?1l>
+]2;..]1;..[1m[7m%[27m[1m[0m                                                                                                                                                                                                                   ]2;j@J: ~/projects/finalProject1516q2]1;..Project1516q2[0m[27m[24m[J[33mfinalProject1516q2 ➤ [00m[K[188C[33m [00m[189D[?1h=kksk  lls[?1l>
+]2;ls -G]1;ls[34mdoc[39;49m[0m     [34minputs[39;49m[0m  [34moutputs[39;49m[0m [34msources[39;49m[0m
+[1m[7m%[27m[1m[0m                                                                                                                                                                                                                   ]2;j@J: ~/projects/finalProject1516q2]1;..Project1516q2[0m[27m[24m[J[33mfinalProject1516q2 ➤ [00m[K[188C[33m [00m[189D[?1h=ssources[?1l>
+]2;sources]1;sources[1m[7m%[27m[1m[0m                                                                                                                                                                                                                   ]2;j@J: ~/projects/finalProject1516q2/sources]1;..516q2/sources[0m[27m[24m[J[33msources ➤ [00m[K[199C[33m [00m[200D[?1h=lls[?1l>
+]2;ls -G]1;ls[34m3D_Dock[39;49m[0m                [34mfftw-2.1.3[39;49m[0m             fftw-2.1.3.tar.gz      gnu_licensed_3D.tar.gz
+[1m[7m%[27m[1m[0m                                                                                                                                                                                                                   ]2;j@J: ~/projects/finalProject1516q2/sources]1;..516q2/sources[0m[27m[24m[J[33msources ➤ [00m[K[199C[33m [00m[200D[?1h=··D·  33D_Dock[1m/[0m[0m [?1l>
+]2;3D_Dock]1;3D_Dock[1m[7m%[27m[1m[0m                                                                                                                                                                                                                   ]2;j@J: ~/projects/finalProject1516q2/sources/3D_Dock]1;..urces/3D_Dock[0m[27m[24m[J[33m3D_Dock ➤ [00m[K[199C[33m [00m[200D[?1h=lls[?1l>
+]2;ls -G]1;ls[31mCOPYING[39;49m[0m    [31mCOPYRIGHT[39;49m[0m  [34mprogs[39;49m[0m      [34mscripts[39;49m[0m    typescript
+[1m[7m%[27m[1m[0m                                                                                                                                                                                                                   ]2;j@J: ~/projects/finalProject1516q2/sources/3D_Dock]1;..urces/3D_Dock[0m[27m[24m[J[33m3D_Dock ➤ [00m[K[199C[33m [00m[200D[?1h=pprogs   p  sscrp ipt
+[J[0mSCRIPT    [Jscript    [J[1;31mscripts[0m/[J[A[0m[27m[24m[10Cscript[K[193C[33m [00m[194DSCRIPT[1m=[0m
+[J[7mSCRIPT  [0m  [Jscript    [J[1;31mscripts[0m/[J[A[0m[27m[24m[10CSCRIPT[1m=[0m[K[192C[33m [00m[193D
+[7mSCRIPT  [0m  [7mSCRIPT  [0m  [A[0m[27m[24m[10CSCRIPT[1m=[0m[K[192C[33m [00m[193Dscript[0m 
+[10C[7mscript  [0m  SCRIPT    [A[0m[27m[24m[10Cscript[K[193C[33m [00m[194Ds[1m/[0m
+[20C[7mscripts/[0m[10Cscript    [A[0m[27m[24m[10Cscripts[1m/[0m[K[191C[33m [00m[192D
+[J[A[18C[0m [?1l>
+[J]2;scripts]1;scripts[1m[7m%[27m[1m[0m                                                                                                                                                                                                                   ]2;j@J: ~/projects/finalProject1516q2/sources/3D_Dock/scripts]1;.._Dock/scripts[0m[27m[24m[J[33mscripts ➤ [00m[K[199C[33m [00m[200D[?1h=lls[?1l>
+]2;ls -G]1;ls[31mPDB_Parse.pm[39;49m[0m             [31mPDB_Types.pm[39;49m[0m             [31mchange-pdb-chain-id.perl[39;49m[0m [31mpreprocess-pdb.perl[39;49m[0m
+[1m[7m%[27m[1m[0m                                                                                                                                                                                                                   ]2;j@J: ~/projects/finalProject1516q2/sources/3D_Dock/scripts]1;.._Dock/scripts[0m[27m[24m[J[33mscripts ➤ [00m[K[199C[33m [00m[200D[?1h=...[?1l>
+]2;..]1;..[1m[7m%[27m[1m[0m                                                                                                                                                                                                                   ]2;j@J: ~/projects/finalProject1516q2/sources/3D_Dock]1;..urces/3D_Dock[0m[27m[24m[J[33m3D_Dock ➤ [00m[K[199C[33m [00m[200D[?1h=lls[?1l>
+]2;ls -G]1;ls[31mCOPYING[39;49m[0m    [31mCOPYRIGHT[39;49m[0m  [34mprogs[39;49m[0m      [34mscripts[39;49m[0m    typescript
+[1m[7m%[27m[1m[0m                                                                                                                                                                                                                   ]2;j@J: ~/projects/finalProject1516q2/sources/3D_Dock]1;..urces/3D_Dock[0m[27m[24m[J[33m3D_Dock ➤ [00m[K[199C[33m [00m[200D[?1h=pprogs[?1l>
+]2;progs]1;progs[1m[7m%[27m[1m[0m                                                                                                                                                                                                                   ]2;j@J: ~/projects/finalProject1516q2/sources/3D_Dock/progs]1;..3D_Dock/progs[0m[27m[24m[J[33mprogs ➤ [00m[K[201C[33m [00m[202D[?1h=lls[?1l>
+]2;ls -G]1;ls[31mMakefile[39;49m[0m                [31mbuild[39;49m[0m                   [31mcoordinates.c[39;49m[0m           electrostatics.o        ftdock.o                [31mmanipulate_structures.c[39;49m[0m qsort_scores.o          randomspin.o
+[31mangles.c[39;49m[0m                [31mbuild.c[39;49m[0m                 coordinates.o           [31mftdock[39;49m[0m                  [31mgrid.c[39;49m[0m                  manipulate_structures.o [31mrandomspin[39;49m[0m              [31mstructures.h[39;49m[0m
+angles.o                build.o                 [31melectrostatics.c[39;49m[0m        ftdock.c                grid.o                  [31mqsort_scores.c[39;49m[0m          [31mrandomspin.c[39;49m[0m
+[1m[7m%[27m[1m[0m                                                                                                                                                                                                                   ]2;j@J: ~/projects/finalProject1516q2/sources/3D_Dock/progs]1;..3D_Dock/progs[0m[27m[24m[J[33mprogs ➤ [00m[K[201C[33m [00m[202D[?1h=../build[?1l>
+]2;./build]1;./build
+          3D-Dock Suite (March 2001)
+          Copyright (C) 1997-2000 Gidon Moont
+          This program comes with ABSOLUTELY NO WARRANTY
+          for details see license. This program is free software,
+          and you may redistribute it under certain conditions.
+
+          Biomolecular Modelling Laboratory
+          Imperial Cancer Research Fund
+          44 Lincoln's Inn Fields
+          London WC2A 3PX
+          +44 (0)20 7269 3348
+          http://www.bmm.icnet.uk/
+
+Starting Build program
+Could not open ftdock_rpscored.dat for reading.
+Dying
+
+[1m[7m%[27m[1m[0m                                                                                                                                                                                                                   ]2;j@J: ~/projects/finalProject1516q2/sources/3D_Dock/progs]1;..3D_Dock/progs[0m[27m[24m[J[33mprogs ➤ [00m[K[201C[33m [00m[202D[?1h=mmake l clean[?1l>
+]2;make clean]1;makerm -f *.o core ftdock build randomspin
+[1m[7m%[27m[1m[0m                                                                                                                                                                                                                   ]2;j@J: ~/projects/finalProject1516q2/sources/3D_Dock/progs]1;..3D_Dock/progs[0m[27m[24m[J[33mprogs ➤ [00m[K[201C[33m [00m[202D[?1h=lls[?1l>
+]2;ls -G]1;ls[31mMakefile[39;49m[0m                [31mbuild.c[39;49m[0m                 [31melectrostatics.c[39;49m[0m        [31mgrid.c[39;49m[0m                  [31mqsort_scores.c[39;49m[0m          [31mstructures.h[39;49m[0m
+[31mangles.c[39;49m[0m                [31mcoordinates.c[39;49m[0m           ftdock.c                [31mmanipulate_structures.c[39;49m[0m [31mrandomspin.c[39;49m[0m
+[1m[7m%[27m[1m[0m                                                                                                                                                                                                                   ]2;j@J: ~/projects/finalProject1516q2/sources/3D_Dock/progs]1;..3D_Dock/progs[0m[27m[24m[J[33mprogs ➤ [00m[K[201C[33m [00m[202D[?1h=ls  mmae ke all[?1l>
+]2;make all]1;makegcc -I../../fftw-2.1.3/installation//include -O3 -march=native -pg -g  -c ftdock.c
+[1mftdock.c:37:8: [0m[0;1;35mwarning: [0m[1mimplicit declaration of function 'write' is invalid in C99 [-Wimplicit-function-declaration][0m
+       write (1, (void *)((char *)grid+i), sizeof(int));  
+[0;1;32m       ^
+[0m1 warning generated.
+gcc -I../../fftw-2.1.3/installation//include -O3 -march=native -pg -g  -c manipulate_structures.c
+gcc -I../../fftw-2.1.3/installation//include -O3 -march=native -pg -g  -c angles.c
+gcc -I../../fftw-2.1.3/installation//include -O3 -march=native -pg -g  -c coordinates.c
+gcc -I../../fftw-2.1.3/installation//include -O3 -march=native -pg -g  -c electrostatics.c
+gcc -I../../fftw-2.1.3/installation//include -O3 -march=native -pg -g  -c grid.c
+gcc -I../../fftw-2.1.3/installation//include -O3 -march=native -pg -g  -c qsort_scores.c
+gcc -I../../fftw-2.1.3/installation//include -O3 -march=native -pg -g  -o ftdock ftdock.o manipulate_structures.o angles.o coordinates.o electrostatics.o grid.o qsort_scores.o -L../../fftw-2.1.3/installation//lib -lrfftw -lfftw -lm
+chmod 555 ftdock
+gcc -I../../fftw-2.1.3/installation//include -O3 -march=native -pg -g  -c build.c
+gcc -O3 -march=native -pg -g  -o build build.o manipulate_structures.o angles.o coordinates.o electrostatics.o grid.o qsort_scores.o -lm
+chmod 555 build
+gcc -I../../fftw-2.1.3/installation//include -O3 -march=native -pg -g  -c randomspin.c
+gcc -O3 -march=native -pg -g  -o randomspin randomspin.o manipulate_structures.o angles.o coordinates.o electrostatics.o grid.o qsort_scores.o -lm
+chmod 555 randomspin
+[1m[7m%[27m[1m[0m                                                                                                                                                                                                                   ]2;j@J: ~/projects/finalProject1516q2/sources/3D_Dock/progs]1;..3D_Dock/progs[0m[27m[24m[J[33mprogs ➤ [00m[K[201C[33m [00m[202D[?1h=lls[?1l>
+]2;ls -G]1;ls[31mMakefile[39;49m[0m                [31mbuild[39;49m[0m                   [31mcoordinates.c[39;49m[0m           electrostatics.o        ftdock.o                [31mmanipulate_structures.c[39;49m[0m qsort_scores.o          randomspin.o
+[31mangles.c[39;49m[0m                [31mbuild.c[39;49m[0m                 coordinates.o           [31mftdock[39;49m[0m                  [31mgrid.c[39;49m[0m                  manipulate_structures.o [31mrandomspin[39;49m[0m              [31mstructures.h[39;49m[0m
+angles.o                build.o                 [31melectrostatics.c[39;49m[0m        ftdock.c                grid.o                  [31mqsort_scores.c[39;49m[0m          [31mrandomspin.c[39;49m[0m
+[1m[7m%[27m[1m[0m                                                                                                                                                                                                                   ]2;j@J: ~/projects/finalProject1516q2/sources/3D_Dock/progs]1;..3D_Dock/progs[0m[27m[24m[J[33mprogs ➤ [00m[K[201C[33m [00m[202D[?1h=vvim v  ffg[?1l>
+]2;fg]1;fgfg: no current job
+[1m[7m%[27m[1m[0m                                                                                                                                                                                                                   ]2;j@J: ~/projects/finalProject1516q2/sources/3D_Dock/progs]1;..3D_Dock/progs[0m[27m[24m[J[33mprogs ➤ [00m[K[201C[33m [00m[202D[?1h=vvim build
+[J[1;32mbuild[0m*    [J[1;32mbuild.c[0m*  [Jbuild.o [J[A[0m[27m[24m[8Cvim build[K[192C[33m [00m[193D
+[J[7mbuild*  [0m  [J[1;32mbuild.c[0m*  [Jbuild.o [J[A[0m[27m[24m[8Cvim build[K[192C[33m [00m[193D
+[7mbuild*  [0m  [7mbuild*  [0m  [A[0m[27m[24m[8Cvim build[K[192C[33m [00m[193D.c
+[10C[7mbuild.c*[0m  [1;32mbuild[0m*    [A[0m[27m[24m[8Cvim build.c[K[190C[33m [00m[191D
+[J[A[19C[1m [0m[0m [?1l>
+[J]2;/usr/local/Cellar/vim/7.4.1655/bin/vim build.c]1;vim[?1000h[?1049h[?1h=[2;1H▽[6n[2;1H  [1;1H]11;?[1;48r[?12;25h[?12l[?25h[27m[m[H[2J[?25l[48;1H"build.c" 381L, 11410C[>c[1;1H[34m/*
+This file is part of ftdock, a program for rigid-body protein-protein docking 
+Copyright (C) 1997-2000 Gidon Moont
+
+Biomolecular Modelling Laboratory
+Imperial Cancer Research Fund
+44 Lincoln's Inn Fields
+London WC2A 3PX
+
++44 (0)20 7269 3348
+http://www.bmm.icnet.uk/
+
+This program is free software; you can redistribute it and/or
+modify it under the terms of the GNU General Public License
+as published by the Free Software Foundation; either version 2
+of the License, or (at your option) any later version.
+
+This program is distributed in the hope that it will be useful,
+but WITHOUT ANY WARRANTY; without even the implied warranty of
+MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+GNU General Public License for more details.
+
+You should have received a copy of the GNU General Public License
+along with this program; if not, write to the Free Software
+Foundation, Inc., 59 Temple Place - Suite 330, Boston, MA  02111-1307, USA.
+
+*/[m
+
+[35m#include [m[31m"structures.h"[m
+
+[32mint[m main( [32mint[m argc , [32mchar[m *argv[] ) {
+
+  [34m/* index counters */[m
+
+  [32mint[m[7Ci , j ;
+
+  [32mint[m[7Cresidue_s , atom_s ;
+
+  [34m/* Command line options */[m
+
+  [32mchar[m      *input_file_name ;
+  [32mint[m[7Cb0 , b1 , b2 ;
+  [32mchar[m      *gf_type ;
+  [32mchar[m      gf_one_letter_code ;
+  [32mint[m[7Cc_alpha ;
+
+[38;5;255m[48;5;27m [m[1m[38;5;255m[48;5;27mNORMAL[m[38;5;255m[48;5;27m [m[38;5;27m[48;5;45m>[m[38;5;45m[48;5;159m>[m[38;5;27m[48;5;159m build.c                                                                                                                                            [m[38;5;159m[48;5;159m<[m[38;5;27m[48;5;159m c [m[38;5;45m[48;5;159m<[m[38;5;18m[48;5;45m utf-8[unix] [m[38;5;27m[48;5;45m<[m[38;5;255m[48;5;27m   0% [m[1m[38;5;255m[48;5;27m:   1[m[38;5;255m[48;5;27m:  1  [m[38;5;166m[48;5;27m<[m[38;5;232m[48;5;166m ! trailing[2] [m[38;5;160m[48;5;166m<[1;1H[?12l[?25h[?1000l[?1002h[m[47;188H[1m[38;5;255m[48;5;27m2[m[38;5;255m[48;5;27m:[2;1H[m[47;188H[1m[38;5;255m[48;5;27m3[m[38;5;255m[48;5;27m:[3;1H[47;181H1[m[6C[1m[38;5;255m[48;5;27m4[m[38;5;255m[48;5;27m:[4;1H[m[47;188H[1m[38;5;255m[48;5;27m5[m[38;5;255m[48;5;27m:[5;1H[m[47;188H[1m[38;5;255m[48;5;27m6[m[38;5;255m[48;5;27m:[6;1H[m[47;188H[1m[38;5;255m[48;5;27m7[m[38;5;255m[48;5;27m:[7;1H[47;181H2[m[6C[1m[38;5;255m[48;5;27m8[m[38;5;255m[48;5;27m:[8;1H[m[47;188H[1m[38;5;255m[48;5;27m9[m[38;5;255m[48;5;27m:[9;1H[m[47;187H[1m[38;5;255m[48;5;27m10[m[38;5;255m[48;5;27m:[10;1H[m[47;188H[1m[38;5;255m[48;5;27m1[m[38;5;255m[48;5;27m:[11;1H[47;181H3[m[6C[1m[38;5;255m[48;5;27m2[m[38;5;255m[48;5;27m:[12;1H[m[47;188H[1m[38;5;255m[48;5;27m3[m[38;5;255m[48;5;27m:[13;1H[m[47;188H[1m[38;5;255m[48;5;27m4[m[38;5;255m[48;5;27m:[14;1H[m[47;188H[1m[38;5;255m[48;5;27m5[m[38;5;255m[48;5;27m:[15;1H[47;181H4[m[6C[1m[38;5;255m[48;5;27m6[m[38;5;255m[48;5;27m:[16;1H[m[47;188H[1m[38;5;255m[48;5;27m7[m[38;5;255m[48;5;27m:[17;1H[m[47;188H[1m[38;5;255m[48;5;27m8[m[38;5;255m[48;5;27m:[18;1H[m[47;188H[1m[38;5;255m[48;5;27m9[m[38;5;255m[48;5;27m:[19;1H[47;181H5[m[5C[1m[38;5;255m[48;5;27m20[m[38;5;255m[48;5;27m:[20;1H[m[47;188H[1m[38;5;255m[48;5;27m1[m[38;5;255m[48;5;27m:[21;1H[m[47;188H[1m[38;5;255m[48;5;27m2[m[38;5;255m[48;5;27m:[22;1H[47;181H6[m[6C[1m[38;5;255m[48;5;27m3[m[38;5;255m[48;5;27m:[23;1H[m[47;188H[1m[38;5;255m[48;5;27m4[m[38;5;255m[48;5;27m:[24;1H[m[47;188H[1m[38;5;255m[48;5;27m5[m[38;5;255m[48;5;27m:[25;1H[m[47;188H[1m[38;5;255m[48;5;27m6[m[38;5;255m[48;5;27m:[26;1H[47;181H7[m[6C[1m[38;5;255m[48;5;27m7[m[38;5;255m[48;5;27m:[27;1H[m[47;188H[1m[38;5;255m[48;5;27m8[m[38;5;255m[48;5;27m:[28;1H[m[47;188H[1m[38;5;255m[48;5;27m9[m[38;5;255m[48;5;27m:[29;1H[m[47;187H[1m[38;5;255m[48;5;27m30[m[38;5;255m[48;5;27m:[30;1H[47;181H8[m[6C[1m[38;5;255m[48;5;27m1[m[38;5;255m[48;5;27m:[31;1H[m[47;188H[1m[38;5;255m[48;5;27m2[m[38;5;255m[48;5;27m:[32;1H[m[47;188H[1m[38;5;255m[48;5;27m3[m[38;5;255m[48;5;27m:[33;1H[m[47;188H[1m[38;5;255m[48;5;27m4[m[38;5;255m[48;5;27m:[34;1H[47;181H9[m[6C[1m[38;5;255m[48;5;27m5[m[38;5;255m[48;5;27m:[35;1H[m[47;188H[1m[38;5;255m[48;5;27m6[m[38;5;255m[48;5;27m:[36;1H[m[47;188H[1m[38;5;255m[48;5;27m7[m[38;5;255m[48;5;27m:[37;1H[m[47;188H[1m[38;5;255m[48;5;27m8[m[38;5;255m[48;5;27m:[38;1H[47;180H10[m[6C[1m[38;5;255m[48;5;27m9[m[38;5;255m[48;5;27m:[39;1H[m[47;187H[1m[38;5;255m[48;5;27m40[m[38;5;255m[48;5;27m:[40;1H[m[47;188H[1m[38;5;255m[48;5;27m1[m[38;5;255m[48;5;27m:[41;1H[47;181H1[m[6C[1m[38;5;255m[48;5;27m2[m[38;5;255m[48;5;27m:[42;1H[m[47;188H[1m[38;5;255m[48;5;27m3[m[38;5;255m[48;5;27m:[43;1H[m[47;188H[1m[38;5;255m[48;5;27m4[m[38;5;255m[48;5;27m:[44;1H[m[47;188H[1m[38;5;255m[48;5;27m5[m[38;5;255m[48;5;27m:[45;1H[47;181H2[m[6C[1m[38;5;255m[48;5;27m6[m[38;5;255m[48;5;27m:[46;1H[?25l[1;46r[m[46;1H
+[1;48r[46;3H[34m/* File stuff */[m[48;1H[K[47;188H[1m[38;5;255m[48;5;27m7[m[38;5;255m[48;5;27m:[46;1H[?12l[?25h[?25l[1;46r[m[46;1H
+[1;48r[47;188H[1m[38;5;255m[48;5;27m8[m[38;5;255m[48;5;27m:[46;1H[?12l[?25h[?25l[1;46r[m[46;1H
+[1;48r[46;3H[32mFILE[m      *ftdock_file ;[47;188H[1m[38;5;255m[48;5;27m9[m[38;5;255m[48;5;27m:[46;1H[?12l[?25h[?25l[1;46r[m[46;1H
+[1;48r[46;3H[32mchar[m      line_buffer[[31m100[m] ;[47;181H[38;5;255m[48;5;27m3[m[5C[1m[38;5;255m[48;5;27m50[m[38;5;255m[48;5;27m:[46;1H[?12l[?25h[?25l[1;46r[m[46;1H
+[1;48r[47;188H[1m[38;5;255m[48;5;27m1[m[38;5;255m[48;5;27m:[46;1H[?12l[?25h[?25l[1;46r[m[46;1H
+[1;48r[46;3H[32mchar[m      *static_file_name ;[47;188H[1m[38;5;255m[48;5;27m2[m[38;5;255m[48;5;27m:[46;1H[?12l[?25h[?25l[1;46r[m[46;1H
+[1;48r[46;3H[32mchar[m      *mobile_file_name ;[47;188H[1m[38;5;255m[48;5;27m3[m[38;5;255m[48;5;27m:[46;1H[?12l[?25h[?25l[1;46r[m[46;1H
+[1;48r[46;3H[32mchar[m      *complex_file_name ;[47;181H[38;5;255m[48;5;27m4[m[6C[1m[38;5;255m[48;5;27m4[m[38;5;255m[48;5;27m:[46;1H[?12l[?25h[?25l[1;46r[m[46;1H
+[1;48r[47;188H[1m[38;5;255m[48;5;27m5[m[38;5;255m[48;5;27m:[46;1H[?12l[?25h[?25l[1;46r[m[46;1H
+[1;48r[46;3H[34m/* Structures */[m[47;188H[1m[38;5;255m[48;5;27m6[m[38;5;255m[48;5;27m:[46;1H[?12l[?25h[?25l[1;46r[m[46;1H
+[1;48r[47;188H[1m[38;5;255m[48;5;27m7[m[38;5;255m[48;5;27m:[46;1H[?12l[?25h[?25l[1;46r[m[46;1H
+[1;48r[46;3H[32mstruct[m Structure  Static_Structure , Mobile_Structure ;[47;181H[38;5;255m[48;5;27m5[m[6C[1m[38;5;255m[48;5;27m8[m[38;5;255m[48;5;27m:[46;1H[?12l[?25h[?25l[1;46r[m[46;1H
+[1;48r[46;3H[32mstruct[m Structure  Origin_Static_Structure , Origin_Mobile_Structure ;[47;188H[1m[38;5;255m[48;5;27m9[m[38;5;255m[48;5;27m:[46;1H[?12l[?25h[?25l[1;46r[m[46;1H
+[1;48r[46;3H[32mstruct[m Structure  Rotated_at_Origin_Mobile_Structure , Translated_and_Rotated_at_Origin_Mobile_Structure ;[47;187H[1m[38;5;255m[48;5;27m60[m[38;5;255m[48;5;27m:[46;1H[?12l[?25h[?25l[1;46r[m[46;1H
+[1;48r[46;3H[32mstruct[m Structure  Complex_Structure , C_Alpha_Complex_Structure ;[47;181H[38;5;255m[48;5;27m6[m[6C[1m[38;5;255m[48;5;27m1[m[38;5;255m[48;5;27m:[46;1H[?12l[?25h[?25l[1;46r[m[46;1H
+[1;48r[47;188H[1m[38;5;255m[48;5;27m2[m[38;5;255m[48;5;27m:[46;1H[?12l[?25h[?25l[1;46r[m[46;1H
+[1;48r[46;3H[34m/* Co-ordinates and Angles */[m[47;188H[1m[38;5;255m[48;5;27m3[m[38;5;255m[48;5;27m:[46;1H[?12l[?25h[?25l[1;46r[m[46;1H
+[1;48r[47;188H[1m[38;5;255m[48;5;27m4[m[38;5;255m[48;5;27m:[46;1H[?12l[?25h[?25l[1;46r[m[46;1H
+[1;48r[46;3H[32mint[m[7Cx , y , z , z_twist , theta, phi ;[47;181H[38;5;255m[48;5;27m7[m[6C[1m[38;5;255m[48;5;27m5[m[38;5;255m[48;5;27m:[46;1H[?12l[?25h[?25l[1;46r[m[46;1H
+[1;48r[47;188H[1m[38;5;255m[48;5;27m6[m[38;5;255m[48;5;27m:[46;1H[?12l[?25h[?25l[1;46r[m[46;1H
+[1;48r[46;3H[34m/* Grid stuff */[m[47;188H[1m[38;5;255m[48;5;27m7[m[38;5;255m[48;5;27m:[46;1H[?12l[?25h[?25l[1;46r[m[46;1H
+[1;48r[47;188H[1m[38;5;255m[48;5;27m8[m[38;5;255m[48;5;27m:[46;1H[?12l[?25h[?25l[1;46r[m[46;1H
+[1;48r[46;3H[32mint[m[7Cgrid_size ;[47;181H[38;5;255m[48;5;27m8[m[6C[1m[38;5;255m[48;5;27m9[m[38;5;255m[48;5;27m:[46;1H[?12l[?25h[?25l[1;46r[m[46;1H
+[1;48r[46;3H[32mfloat[m     grid_span , one_span ;[47;187H[1m[38;5;255m[48;5;27m70[m[38;5;255m[48;5;27m:[46;1H[?12l[?25h[?25l[1;46r[m[46;1H
+[1;48r[47;188H[1m[38;5;255m[48;5;27m1[m[38;5;255m[48;5;27m:[46;1H[?12l[?25h[?25l[1;46r[m[46;1H
+[1;48r[46;3H[34m/* ftdock.dat file values */[m[47;188H[1m[38;5;255m[48;5;27m2[m[38;5;255m[48;5;27m:[46;1H[?12l[?25h[?25l[1;46r[m[46;1H
+[1;48r[47;181H[38;5;255m[48;5;27m9[m[6C[1m[38;5;255m[48;5;27m3[m[38;5;255m[48;5;27m:[46;1H[?12l[?25h[?25l[1;46r[m[46;1H
+[1;48r[46;3H[32mint[m[7Ccomplex_id , prev_complex_id , SCscore ;[47;188H[1m[38;5;255m[48;5;27m4[m[38;5;255m[48;5;27m:[46;1H[?12l[?25h[?25l[1;46r[m[46;1H
+[1;48r[46;3H[32mfloat[m     RPscore ;[47;188H[1m[38;5;255m[48;5;27m5[m[38;5;255m[48;5;27m:[46;1H[?12l[?25h[?25l[1;46r[m[46;1H
+[1;48r[47;188H[1m[38;5;255m[48;5;27m6[m[38;5;255m[48;5;27m:[46;1H[?12l[?25h[?25l[1;46r[m[46;1H
+[1;48r[46;1H[34m/************/[m[47;180H[38;5;255m[48;5;27m20[m[6C[1m[38;5;255m[48;5;27m7[m[38;5;255m[48;5;27m:[46;1H[?12l[?25h[?25l[1;46r[m[46;1H
+[1;48r[47;188H[1m[38;5;255m[48;5;27m8[m[38;5;255m[48;5;27m:[46;1H[?12l[?25h[?25l[1;46r[m[46;1H
+[1;48r[46;3H[34m/* Its nice to tell people what going on straight away */[m[47;188H[1m[38;5;255m[48;5;27m9[m[38;5;255m[48;5;27m:[46;1H[?12l[?25h[?25l[1;46r[m[46;1H
+[1;48r[47;187H[1m[38;5;255m[48;5;27m80[m[38;5;255m[48;5;27m:[46;1H[?12l[?25h[?25l[1;46r[m[46;1H
+[1;48r[46;3Hsetvbuf( [31mstdout[m , ([32mchar[m *)[31mNULL[m , [31m_IONBF[m , [31m0[m ) ;[47;181H[38;5;255m[48;5;27m1[m[6C[1m[38;5;255m[48;5;27m1[m[38;5;255m[48;5;27m:[46;1H[?12l[?25h[?25l[1;46r[m[46;1H
+[1;48r[47;188H[1m[38;5;255m[48;5;27m2[m[38;5;255m[48;5;27m:[46;1H[?12l[?25h[?25l[1;46r[m[46;1H
+[1;48r[47;188H[1m[38;5;255m[48;5;27m3[m[38;5;255m[48;5;27m:[46;1H[?12l[?25h[?25l[1;46r[m[46;1H
+[1;48r[46;3Hprintf( [31m"[m[35m\n[m[31m          3D-Dock Suite (March 2001)[m[35m\n[m[31m"[m ) ;[47;181H[38;5;255m[48;5;27m2[m[6C[1m[38;5;255m[48;5;27m4[m[38;5;255m[48;5;27m:[46;1H[?12l[?25h[?25l[1;46r[m[46;1H
+[1;48r[46;3Hprintf( [31m"          Copyright (C) 1997-2000 Gidon Moont[m[35m\n[m[31m"[m ) ;[47;188H[1m[38;5;255m[48;5;27m5[m[38;5;255m[48;5;27m:[46;1H[?12l[?25h[?25l[1;46r[m[46;1H
+[1;48r[46;3Hprintf( [31m"          This program comes with ABSOLUTELY NO WARRANTY[m[35m\n[m[31m"[m ) ;[47;188H[1m[38;5;255m[48;5;27m6[m[38;5;255m[48;5;27m:[46;1H[?12l[?25h[?25l[1;46r[m[46;1H
+[1;48r[46;3Hprintf( [31m"          for details see license. This program is free software,[m[35m\n[m[31m"[m);[47;188H[1m[38;5;255m[48;5;27m7[m[38;5;255m[48;5;27m:[46;1H[?12l[?25h[m[47;158H[38;5;159m[48;5;159m<[m[38;5;27m[48;5;159m c [m[38;5;45m[48;5;159m<[m[38;5;18m[48;5;45m utf-8[unix] [m[38;5;27m[48;5;45m<[m[38;5;255m[48;5;27m  22% [m[1m[38;5;255m[48;5;27m:  877[m[38;5;255m[48;5;27m:  1 [m[1C[38;5;166m[48;5;27m<[m[38;5;232m[48;5;166m ! trailing[87[46;1H[?25l[1;46r[m[1;1H[3L[1;48r[1;3H[34m/* Command line options */[m
+
+  [32mchar[m      *input_file_name ;[47;187H[1m[38;5;255m[48;5;27m4[m[38;5;255m[48;5;27m:[46;1H[?12l[?25h[?25l[1;46r[m[1;1H[3L[1;48r[2;3H[32mint[m[7Cresidue_s , atom_s ;[47;180H[38;5;255m[48;5;27m1[m[6C[1m[38;5;255m[48;5;27m1[m[38;5;255m[48;5;27m:[46;1H[?12l[?25h[?25l[1;46r[m[1;1H[3L[1;48r[1;3H[34m/* index counters */[m
+
+  [32mint[m[7Ci , j ;[47;180H[38;5;255m[48;5;27m0[m[5C[1m[38;5;255m[48;5;27m78[m[38;5;255m[48;5;27m:[46;1H[?12l[?25h[?25l[1;46r[m[1;1H[3L[1;48r[2;1H[32mint[m main( [32mint[m argc , [32mchar[m *argv[] ) {[47;179H[38;5;255m[48;5;27m19[m[6C[1m[38;5;255m[48;5;27m5[m[38;5;255m[48;5;27m:[46;1H[?12l[?25h[?25l[1;46r[m[1;1H[3L[1;48r[1;1H[34m*/[m
+
+[35m#include [m[31m"structures.h"[m[47;180H[38;5;255m[48;5;27m8[m[6C[1m[38;5;255m[48;5;27m2[m[38;5;255m[48;5;27m:[46;1H[?12l[?25h[?25l[1;46r[m[1;1H[3L[1;48r[1;1H[34malong with this program; if not, write to the Free Software
+Foundation, Inc., 59 Temple Place - Suite 330, Boston, MA  02111-1307, USA.[m[47;186H[1m[38;5;255m[48;5;27m69[m[38;5;255m[48;5;27m:[46;1H[?12l[?25h[?25l[1;46r[m[1;1H[3L[1;48r[1;1H[34mGNU General Public License for more details.
+
+You should have received a copy of the GNU General Public License[m[47;180H[38;5;255m[48;5;27m7[m[6C[1m[38;5;255m[48;5;27m6[m[38;5;255m[48;5;27m:[46;1H[?12l[?25h[?25l[1;46r[m[1;1H[3L[1;48r[1;1H[34mThis program is distributed in the hope that it will be useful,
+but WITHOUT ANY WARRANTY; without even the implied warranty of
+MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the[m[47;180H[38;5;255m[48;5;27m6[m[6C[1m[38;5;255m[48;5;27m3[m[38;5;255m[48;5;27m:[46;1H[?12l[?25h[?25l[1;46r[m[1;1H[3L[1;48r[1;1H[34mas published by the Free Software Foundation; either version 2
+of the License, or (at your option) any later version.[m[47;180H[38;5;255m[48;5;27m5[m[6C[1m[38;5;255m[48;5;27m0[m[38;5;255m[48;5;27m:[46;1H[?12l[?25h[?25l[1;46r[m[1;1H[3L[1;48r[2;1H[34mThis program is free software; you can redistribute it and/or
+modify it under the terms of the GNU General Public License[m[47;180H[38;5;255m[48;5;27m4[m[5C[1m[38;5;255m[48;5;27m57[m[38;5;255m[48;5;27m:[46;1H[?12l[?25h[?25l[1;46r[m[1;1H[3M[1;48r[44;3H[32mstruct[m Structure  Static_Structure , Mobile_Structure ;
+  [32mstruct[m Structure  Origin_Static_Structure , Origin_Mobile_Structure ;
+  [32mstruct[m Structure  Rotated_at_Origin_Mobile_Structure , Translated_and_Rotated_at_Origin_Mobile_Structure ;[43;1H[?12l[?25h[?25l[1;46r[1;1H[3M[1;48r[44;3H[32mstruct[m Structure  Complex_Structure , C_Alpha_Complex_Structure ;
+
+  [34m/* Co-ordinates and Angles */[40;1H[?12l[?25h[?25l[1;46r[m[1;1H[3M[1;48r[45;3H[32mint[m[7Cx , y , z , z_twist , theta, phi ;[37;1H[?12l[?25h[?25l[1;46r[1;1H[3M[1;48r[44;3H[34m/* Grid stuff */[m
+
+  [32mint[m[7Cgrid_size ;[34;1H[?12l[?25h[?25l[1;46r[1;1H[3M[1;48r[44;3H[32mfloat[m     grid_span , one_span ;
+
+  [34m/* ftdock.dat file values */[31;1H[?12l[?25h[?25l[1;46r[m[1;1H[3M[1;48r[45;3H[32mint[m[7Ccomplex_id , prev_complex_id , SCscore ;
+  [32mfloat[m     RPscore ;[28;1H[?12l[?25h[?25l[1;46r[1;1H[3M[1;48r[45;1H[34m/************/[25;1H[?12l[?25h[?25l[1;46r[m[1;1H[3M[1;48r[44;3H[34m/* Its nice to tell people what going on straight away */[m
+
+  setvbuf( [31mstdout[m , ([32mchar[m *)[31mNULL[m , [31m_IONBF[m , [31m0[m ) ;[22;1H[?12l[?25h[?25l[1;46r[1;1H[3M[1;48r[46;3Hprintf( [31m"[m[35m\n[m[31m          3D-Dock Suite (March 2001)[m[35m\n[m[31m"[m ) ;[19;1H[?12l[?25h[?25l[1;46r[1;1H[3M[1;48r[44;3Hprintf( [31m"          Copyright (C) 1997-2000 Gidon Moont[m[35m\n[m[31m"[m ) ;
+  printf( [31m"          This program comes with ABSOLUTELY NO WARRANTY[m[35m\n[m[31m"[m ) ;
+  printf( [31m"          for details see license. This program is free software,[m[35m\n[m[31m"[m);[16;1H[?12l[?25h[?25l[1;46r[1;1H[3M[1;48r[44;3Hprintf( [31m"          and you may redistribute it under certain conditions.[m[35m\n\n[m[31m"[m);
+
+  printf( [31m"          Biomolecular Modelling Laboratory[m[35m\n[m[31m"[m ) ;[13;1H[?12l[?25h[?25l[1;46r[1;1H[3M[1;48r[44;3Hprintf( [31m"          Imperial Cancer Research Fund[m[35m\n[m[31m"[m ) ;
+  printf( [31m"          44 Lincoln's Inn Fields[m[35m\n[m[31m"[m ) ;
+  printf( [31m"          London WC2A 3PX[m[35m\n[m[31m"[m ) ;[10;1H[?12l[?25h[?25l[1;46r[1;1H[3M[1;48r[44;3Hprintf( [31m"          +44 (0)20 7269 3348[m[35m\n[m[31m"[m ) ;
+  printf( [31m"          http://www.bmm.icnet.uk/[m[35m\n\n[m[31m"[m ) ;[7;1H[?12l[?25h[?25l[1;46r[1;1H[3M[1;48r[45;3Hprintf( [31m"Starting Build program[m[35m\n[m[31m"[m ) ;[4;1H[?12l[?25h[?25l[1;46r[1;1H[3M[1;48r[44;1H[34m/************/
+
+[m  [34m/* Memory allocation */[1;1H[?12l[?25h[?25l[1;46r[m[1;1H[3M[1;48r[45;3H[38;5;130mif[m( ( ( input_file_name   = ( [32mchar[m * ) malloc ( [31m500[m * [38;5;130msizeof[m( [32mchar[m ) ) ) == [31mNULL[m ) ||[46;7H( ( gf_type[11C= ( [32mchar[m * ) malloc (  [31m10[m * [38;5;130msizeof[m( [32mchar[m ) ) ) == [31mNULL[m ) ||[47;180H[38;5;255m[48;5;27m5[m[5C[1m[38;5;255m[48;5;27m60[m[38;5;255m[48;5;27m:[1;1H[?12l[?25h[?25l[1;46r[m[1;1H[3M[1;48r[44;7H( ( static_file_name  = ( [32mchar[m * ) malloc ( [31m500[m * [38;5;130msizeof[m( [32mchar[m ) ) ) == [31mNULL[m ) ||[45;7H( ( mobile_file_name  = ( [32mchar[m * ) malloc ( [31m500[m * [38;5;130msizeof[m( [32mchar[m ) ) ) == [31mNULL[m ) ||[46;7H( ( complex_file_name = ( [32mchar[m * ) malloc ( [31m500[m * [38;5;130msizeof[m( [32mchar[m ) ) ) == [31mNULL[m ) ) {[47;180H[38;5;255m[48;5;27m6[m[6C[1m[38;5;255m[48;5;27m3[m[38;5;255m[48;5;27m:[1;1H[?12l[?25h[?25l[1;46r[m[1;1H[3M[1;48r[44;5HGENERAL_MEMORY_PROBLEM
+  }[47;180H[38;5;255m[48;5;27m7[m[6C[1m[38;5;255m[48;5;27m6[m[38;5;255m[48;5;27m:[1;1H[?12l[?25h[?25l[1;46r[m[1;1H[3M[1;48r[44;1H[34m/************/
+
+[m  [34m/* Command Line defaults */[m[47;180H[38;5;255m[48;5;27m8[m[6C[1m[38;5;255m[48;5;27m9[m[38;5;255m[48;5;27m:[1;1H[?12l[?25h[?25l[1;46r[m[1;1H[3M[1;48r[45;3Hstrcpy( input_file_name , [31m"ftdock_rpscored.dat"[m ) ;
+  b0 = [31m0[m ;[47;186H[1m[38;5;255m[48;5;27m72[m[38;5;255m[48;5;27m:[1;1H[?12l[?25h[?25l[1;46r[m[1;1H[3M[1;48r[44;3Hb1 = [31m1[m ;
+  b2 = NUMBER_TO_KEEP ;
+  strcpy( gf_type , [31m"G_DATA"[m ) ;[47;180H[38;5;255m[48;5;27m9[m[6C[1m[38;5;255m[48;5;27m5[m[38;5;255m[48;5;27m:[1;1H[?12l[?25h[?25l[1;46r[m[1;1H[3M[1;48r[44;3Hgf_one_letter_code = [31m'g'[m ;
+  c_alpha = [31m0[m ;[47;179H[38;5;255m[48;5;27m20[m[6C[1m[38;5;255m[48;5;27m8[m[38;5;255m[48;5;27m:[1;1H[?12l[?25h[?25l[1;46r[m[1;1H[3M[1;48r[44;3H[34m/* Command Line parse */[m
+
+  [38;5;130mfor[m( i = [31m1[m ; i < argc ; i ++ ) {[47;180H[38;5;255m[48;5;27m1[m[5C[1m[38;5;255m[48;5;27m81[m[38;5;255m[48;5;27m:[1;1H[?12l[?25h[?25l[1;46r[m[1;1H[3M[1;48r[45;5H[38;5;130mif[m( strcmp( argv[i] , [31m"-in"[m ) == [31m0[m ) {[46;7Hi ++ ;[47;180H[38;5;255m[48;5;27m2[m[6C[1m[38;5;255m[48;5;27m4[m[38;5;255m[48;5;27m:[1;1H[?12l[?25h[?25l[1;46r[m[1;1H[3M[1;48r[44;7H[38;5;130mif[m( ( i == argc ) || ( strncmp( argv[i] , [31m"-"[m , [31m1[m ) == [31m0[m ) ) {[45;9Hprintf( [31m"Bad command line[m[35m\n[m[31m"[m ) ;[46;9Hexit( [31mEXIT_FAILURE[m ) ;[47;187H[1m[38;5;255m[48;5;27m7[m[38;5;255m[48;5;27m:[1;1H[?12l[?25h[?25l[1;46r[m[1;1H[3M[1;48r[44;7H}[45;7Hstrcpy( input_file_name , argv[i] ) ;
+    } [38;5;130melse[m {[47;180H[38;5;255m[48;5;27m3[m[5C[1m[38;5;255m[48;5;27m90[m[38;5;255m[48;5;27m:[1;1H[?12l[?25h[?25l[1;46r[m[1;1H[3M[1;48r[44;7H[38;5;130mif[m( strcmp( argv[i] , [31m"-b0"[m ) == [31m0[m ) {[45;9Hi ++ ;[46;9H[38;5;130mif[m( ( i == argc ) || ( strncmp( argv[i] , [31m"-"[m , [31m1[m ) == [31m0[m ) ) {[47;180H[38;5;255m[48;5;27m4[m[6C[1m[38;5;255m[48;5;27m3[m[38;5;255m[48;5;27m:[1;1H[?12l[?25h[?25l[1;46r[m[1;1H[3M[1;48r[44;11Hprintf( [31m"Bad command line[m[35m\n[m[31m"[m ) ;[45;11Hexit( [31mEXIT_FAILURE[m ) ;[46;9H}[47;180H[38;5;255m[48;5;27m5[m[6C[1m[38;5;255m[48;5;27m6[m[38;5;255m[48;5;27m:[1;1H[?12l[?25h[?25l[1;46r[m[1;1H[3M[1;48r[44;9Hsscanf( argv[i] , [31m"[m[35m%d[m[31m"[m , &b0 ) ;[45;7H} [38;5;130melse[m {[46;9H[38;5;130mif[m( strcmp( argv[i] , [31m"-b1"[m ) == [31m0[m ) {[47;187H[1m[38;5;255m[48;5;27m9[m[38;5;255m[48;5;27m:[1;1H[?12l[?25h[?25l[1;46r[m[1;1H[3M[1;48r[44;11Hi ++ ;[45;11H[38;5;130mif[m( ( i == argc ) || ( strncmp( argv[i] , [31m"-"[m , [31m1[m ) == [31m0[m ) ) {[46;13Hprintf( [31m"Bad command line[m[35m\n[m[31m"[m ) ;[47;180H[38;5;255m[48;5;27m6[m[4C[1m[38;5;255m[48;5;27m102[m[38;5;255m[48;5;27m:[1;1H[?12l[?25h[?25l[1;46r[m[1;1H[3M[1;48r[44;13Hexit( [31mEXIT_FAILURE[m ) ;[45;11H}[46;11Hsscanf( argv[i] , [31m"[m[35m%d[m[31m"[m , &b1 ) ;[47;180H[38;5;255m[48;5;27m7[m[6C[1m[38;5;255m[48;5;27m5[m[38;5;255m[48;5;27m:[1;1H[?12l[?25h[?25l[1;46r[m[1;1H[3M[1;48r[44;9H} [38;5;130melse[m {[45;11H[38;5;130mif[m( strcmp( argv[i] , [31m"-b2"[m ) == [31m0[m ) {[46;13Hi ++ ;[47;180H[38;5;255m[48;5;27m8[m[6C[1m[38;5;255m[48;5;27m8[m[38;5;255m[48;5;27m:[1;1H[?12l[?25h[?25l[1;46r[m[1;1H[3M[1;48r[44;13H[38;5;130mif[m( ( i == argc ) || ( strncmp( argv[i] , [31m"-"[m , [31m1[m ) == [31m0[m ) ) {[45;15Hprintf( [31m"Bad command line[m[35m\n[m[31m"[m ) ;[46;15Hexit( [31mEXIT_FAILURE[m ) ;[47;180H[38;5;255m[48;5;27m9[m[5C[1m[38;5;255m[48;5;27m11[m[38;5;255m[48;5;27m:[1;1H[?12l[?25h[?25l[1;46r[m[1;1H[3M[1;48r[44;13H}[45;13Hsscanf( argv[i] , [31m"[m[35m%d[m[31m"[m , &b2 ) ;[46;11H} [38;5;130melse[m {[47;187H[1m[38;5;255m[48;5;27m4[m[38;5;255m[48;5;27m:[1;1H[?12l[?25h[?25l[1;46r[m[1;1H[3M[1;48r[44;13H[38;5;130mif[m( strcmp( argv[i] , [31m"-fine"[m ) == [31m0[m ) {[45;15Hstrcpy( gf_type , [31m"F_DATA"[m ) ;[46;15Hgf_one_letter_code = [31m'f'[m ;[47;179H[38;5;255m[48;5;27m30[m[6C[1m[38;5;255m[48;5;27m7[m[38;5;255m[48;5;27m:[1;1H[?12l[?25h[?25l[1;46r[m[1;1H[3M[1;48r[44;13H} [38;5;130melse[m {[45;15H[38;5;130mif[m( strcmp( argv[i] , [31m"-c_alpha"[m ) == [31m0[m ) {[46;17Hc_alpha = [31m1[m ;[47;180H[38;5;255m[48;5;27m1[m[5C[1m[38;5;255m[48;5;27m20[m[38;5;255m[48;5;27m:[1;1H[?12l[?25h[?25l[1;46r[m[1;1H[3M[1;48r[44;15H} [38;5;130melse[m {[45;17Hprintf( [31m"Bad command line[m[35m\n[m[31m"[m ) ;[46;17Hexit( [31mEXIT_FAILURE[m ) ;[47;180H[38;5;255m[48;5;27m2[m[6C[1m[38;5;255m[48;5;27m3[m[38;5;255m[48;5;27m:[1;1H[?12l[?25h[?25l[1;46r[m[1;1H[3M[1;48r[44;15H}[45;13H}[46;11H}[47;180H[38;5;255m[48;5;27m3[m[6C[1m[38;5;255m[48;5;27m6[m[38;5;255m[48;5;27m:[1;1H[?12l[?25h[?25l[1;46r[m[1;1H[3M[1;48r[44;9H}[45;7H}
+    }[47;187H[1m[38;5;255m[48;5;27m9[m[38;5;255m[48;5;27m:[1;1H[?12l[?25h[?25l[1;46r[m[1;1H[3M[1;48r[45;3H}[47;180H[38;5;255m[48;5;27m4[m[5C[1m[38;5;255m[48;5;27m32[m[38;5;255m[48;5;27m:[1;1H[?12l[?25h[?25l[1;46r[m[1;1H[3M[1;48r[44;1H[34m/************/
+
+[m  [34m/* Read neat data file - headers */[m[47;180H[38;5;255m[48;5;27m5[m[6C[1m[38;5;255m[48;5;27m5[m[38;5;255m[48;5;27m:[1;1H[?12l[?25h[?25l[1;46r[m[1;1H[3M[1;48r[45;3H[38;5;130mif[m( ( ftdock_file = fopen( input_file_name , [31m"r"[m ) ) == [31mNULL[m ) {
+    printf( [31m"Could not open [m[35m%s[m[31m for reading.[m[35m\n[m[31mDying[m[35m\n\n[m[31m"[m , input_file_name ) ;[47;180H[38;5;255m[48;5;27m6[m[6C[1m[38;5;255m[48;5;27m8[m[38;5;255m[48;5;27m:[1;1H[?12l[?25h[48;1H
+[m[?1l>[?1049l[?1002l
+[1]  + 7791 suspended  /usr/local/Cellar/vim/7.4.1655/bin/vim build.c
+[1m[7m%[27m[1m[0m                                                                                                                                                                                                                   ]2;j@J: ~/projects/finalProject1516q2/sources/3D_Dock/progs]1;..3D_Dock/progs[0m[27m[24m[J[33mprogs ➤ [00m[K[201C[33m [00m[202D[?1h=fftp[1m [0m[0m  f  ../ftdock[1m [0m[0m [?1l>
+]2;./ftdock]1;./ftdock
+          3D-Dock Suite (March 2001)
+          Copyright (C) 1997-2000 Gidon Moont
+          This program comes with ABSOLUTELY NO WARRANTY
+          for details see license. This program is free software,
+          and you may redistribute it under certain conditions.
+
+          Biomolecular Modelling Laboratory
+          Imperial Cancer Research Fund
+          44 Lincoln's Inn Fields
+          London WC2A 3PX
+          +44 (0)20 7269 3348
+          http://www.bmm.icnet.uk/
+
+Starting FTDock (v2.0) global search program
+  reading parsed pdb file:  --static file name was not provided--
+This file does not exist here, or is unreadable.
+Dying
+
+[1m[7m%[27m[1m[0m                                                                                                                                                                                                                   ]2;j@J: ~/projects/finalProject1516q2/sources/3D_Dock/progs]1;..3D_Dock/progs[0m[27m[24m[J[33mprogs ➤ [00m[K[201C[33m [00m[202D[?1h=./ftdock ..c.swp[1C[1C[1C[1C[1C[1C     /..  
+[J[1;32mCOPYING[0m*    [J[1;32mCOPYRIGHT[0m*  [J[1;31mprogs[0m/      [J[1;31mscripts[0m/    [Jtypescript[J[A[0m[27m[24m[8C./ftdock ../[K[189C[33m [00m[190D..
+[J[A[22C/
+[J[J[1;31m3D_Dock[0m/                [J[1;31mfftw-2.1.3[0m/             [Jfftw-2.1.3.tar.gz       [Jgnu_licensed_3D.tar.gz[J[A[0m[27m[24m[8C./ftdock ../../[K[186C[33m [00m[187D../
+[J[J[1;31mdoc[0m/      [J[1;31minputs[0m/   [J[1;31moutputs[0m/  [J[1;31msources[0m/[J[A[0m[27m[24m[8C./ftdock ../../../[K[183C[33m [00m[184Ddoc[1m/[0m
+[J[7mdoc/    [0m  [J[1;31minputs[0m/   [J[1;31moutputs[0m/  [J[1;31msources[0m/[J[A[0m[27m[24m[8C./ftdock ../../../doc[1m/[0m[K[179C[33m [00m[180D
+[7mdoc/    [0m  [7mdoc/    [0m  [A[0m[27m[24m[8C./ftdock ../../../doc[1m/[0m[K[179C[33m [00m[180Dinp[0muts[1m/[0m
+[10C[7minputs/ [0m  [1;31mdoc[0m/      [A[0m[27m[24m[8C./ftdock ../../../inputs[1m/[0m[K[176C[33m [00m[177D
+[J[A[33C[0m/
+[J[J[0m1ACB_lig.parsed  [J1ACB_rec.parsed  [J1hba.parsed      [J2kai.parsed      [J2pka.parsed      [J4hhb.parsed      [J5pti.parsed    [J[A[0m[27m[24m[8C./ftdock ../../../inputs/[K[176C[33m [00m[177D1ACB_lig.parsed
+[J[7m1ACB_lig.parsed[0m  [J1ACB_rec.parsed  [J1hba.parsed      [J2kai.parsed      [J2pka.parsed      [J4hhb.parsed      [J5pti.parsed    [J[A[0m[27m[24m[8C./ftdock ../../../inputs/1ACB_lig.parsed[K[161C[33m [00m[162D
+[7m1ACB_lig.parsed[0m  [7m1ACB_lig.parsed[0m  [A[0m[27m[24m[8C./ftdock ../../../inputs/1ACB_lig.parsed[K[161C[33m [00m[162D
+[J[A[48C[1m [0m[0m [?1l>
+[J]2;./ftdock ../../../inputs/1ACB_lig.parsed]1;./ftdock
+          3D-Dock Suite (March 2001)
+          Copyright (C) 1997-2000 Gidon Moont
+          This program comes with ABSOLUTELY NO WARRANTY
+          for details see license. This program is free software,
+          and you may redistribute it under certain conditions.
+
+          Biomolecular Modelling Laboratory
+          Imperial Cancer Research Fund
+          44 Lincoln's Inn Fields
+          London WC2A 3PX
+          +44 (0)20 7269 3348
+          http://www.bmm.icnet.uk/
+
+Starting FTDock (v2.0) global search program
+Bad command line
+[1m[7m%[27m[1m[0m                                                                                                                                                                                                                   ]2;j@J: ~/projects/finalProject1516q2/sources/3D_Dock/progs]1;..3D_Dock/progs[0m[27m[24m[J[33mprogs ➤ [00m[K[201C[33m [00m[202D[?1h=eenv CFLAGS="-O3 --march=native" ./configure --prefix=$PWD/installation --enable-float[?1l>
+]2;env CFLAGS="-O3 --march=native" ./configure --prefix=$PWD/installation ]1;envenv: ./configure: No such file or directory
+[1m[7m%[27m[1m[0m                                                                                                                                                                                                                   ]2;j@J: ~/projects/finalProject1516q2/sources/3D_Dock/progs]1;..3D_Dock/progs[0m[27m[24m[J[33mprogs ➤ [00m[K[201C[33m [00m[202D[?1h=mmake install[?1l>
+]2;make install]1;makemake: *** No rule to make target `install'.  Stop.
+[1m[7m%[27m[1m[0m                                                                                                                                                                                                                   ]2;j@J: ~/projects/finalProject1516q2/sources/3D_Dock/progs]1;..3D_Dock/progs[0m[27m[24m[J[33mprogs ➤ [00m[K[201C[33m [00m[202D[?1h=--static 2pka.parsed -mobile 5pti.parsed
+[1m[7m%[27m[1m[0m                                                                                                                                                                                                                   ]2;j@J: ~/projects/finalProject1516q2/sources/3D_Dock/progs]1;..3D_Dock/progs[0m[27m[24m[J[33mprogs ➤ [00m[K[201C[33m [00m[202D[?1h=../ftdock[1m [0m[0m -static 2pka.parsed -mobile 5pti.parsed[?1l>
+]2;./ftdock -static 2pka.parsed -mobile 5pti.parsed]1;./ftdock
+          3D-Dock Suite (March 2001)
+          Copyright (C) 1997-2000 Gidon Moont
+          This program comes with ABSOLUTELY NO WARRANTY
+          for details see license. This program is free software,
+          and you may redistribute it under certain conditions.
+
+          Biomolecular Modelling Laboratory
+          Imperial Cancer Research Fund
+          44 Lincoln's Inn Fields
+          London WC2A 3PX
+          +44 (0)20 7269 3348
+          http://www.bmm.icnet.uk/
+
+Starting FTDock (v2.0) global search program
+  reading parsed pdb file: 2pka.parsed
+This file does not exist here, or is unreadable.
+Dying
+
+[1m[7m%[27m[1m[0m                                                                                                                                                                                                                   ]2;j@J: ~/projects/finalProject1516q2/sources/3D_Dock/progs]1;..3D_Dock/progs[0m[27m[24m[J[33mprogs ➤ [00m[K[201C[33m [00m[202D[?1h=./ftdock -static 2pka.parsed -mobile 5pti.parsed.2pka.parsed -mobile 5pti.parsed[31D.2pka.parsed -mobile 5pti.parsed[31D/2pka.parsed -mobile 5pti.parsed[31D.2pka.parsed -mobile 5pti.parsed[31D.2pka.parsed -mobile 5pti.parsed[31D/2pka.parsed -mobile 5pti.parsed[31D.2pka.parsed -mobile 5pti.parsed[31D2pka.parsed -mobile 5pti.parsed [32Do2pka.parsed -mobile 5pti.parsed[31Du2pka.parsed -mobile 5pti.parsed[31D2pka.parsed -mobile 5pti.parsed [32D2pka.parsed -mobile 5pti.parsed [32D.2pka.parsed -mobile 5pti.parsed[31D.2pka.parsed -mobile 5pti.parsed[31D 2pka.parsed -mobile 5pti.parsed[31D/ 2pka.parsed -mobile 5pti.parsed[32Ddoc[1m/[0m 2pka.parsed -mobile 5pti.parsed[32D
+[J[7mdoc/    [0m  [J[1;31minputs[0m/   [J[1;31moutputs[0m/  [J[1;31msources[0m/[J[A[0m[27m[24m[8C./ftdock -static ../../../doc[1m/[0m 2pka.parsed -mobile 5pti.parsed[K[139C[33m [00m[172D
+[7mdoc/    [0m  [7mdoc/    [0m  [A[0m[27m[24m[8C./ftdock -static ../../../doc[1m/[0m 2pka.parsed -mobile 5pti.parsed[K[139C[33m [00m[172Dinp[0muts[1m/[0m 2pka.parsed -mobile 5pti.parsed[32D
+[10C[7minputs/ [0m  [1;31mdoc[0m/      [A[0m[27m[24m[8C./ftdock -static ../../../inputs[1m/[0m 2pka.parsed -mobile 5pti.parsed[K[136C[33m [00m[169Doutput[0ms[1m/[0m 2pka.parsed -mobile 5pti.parsed[32D
+[20C[7moutputs/[0m  [10C[1;31minputs[0m/   [A[0m[27m[24m[8C./ftdock -static ../../../outputs[1m/[0m 2pka.parsed -mobile 5pti.parsed[K[135C[33m [00m[168D[8Dinputs[1m/[0m[0m 2pka.parsed -mobile 5pti.parsed [33D
+[10C[7minputs/ [0m  [20C[1;31moutputs[0m/  [A[0m[27m[24m[8C./ftdock -static ../../../inputs[1m/[0m 2pka.parsed -mobile 5pti.parsed[K[136C[33m [00m[169D
+[J[A[41C[0m 2pka.parsed -mobile 5pti.parsed [32D2pka.parsed -mobile 5pti.parsed [32D/2pka.parsed -mobile 5pti.parsed[31D[1C[1C[1C[1C[1C[1C[1C[1C[1C[1C[1C[1C[1C[1C[1C[1C[1C[1C[1C[1C.5pti.parsed[11D.5pti.parsed[11D/5pti.parsed[11D.5pti.parsed[11D.5pti.parsed[11D/5pti.parsed[11D.5pti.parsed[11D.5pti.parsed[11D/5pti.parsed[11D 5pti.parsed[11Di 5pti.parsed[12Db 5pti.parsed[12Dn 5pti.parsed[12D 5pti.parsed [13D 5pti.parsed [13Dnputs[1m/[0m 5pti.parsed[12D[0m 5pti.parsed [12D5pti.parsed [12D/5pti.parsed[11D[?1l>
+[J]2;./ftdock -static ../../../inputs/2pka.parsed -mobile ]1;./ftdock
+          3D-Dock Suite (March 2001)
+          Copyright (C) 1997-2000 Gidon Moont
+          This program comes with ABSOLUTELY NO WARRANTY
+          for details see license. This program is free software,
+          and you may redistribute it under certain conditions.
+
+          Biomolecular Modelling Laboratory
+          Imperial Cancer Research Fund
+          44 Lincoln's Inn Fields
+          London WC2A 3PX
+          +44 (0)20 7269 3348
+          http://www.bmm.icnet.uk/
+
+Starting FTDock (v2.0) global search program
+  reading parsed pdb file: ../../../inputs/2pka.parsed
+  reading parsed pdb file: ../../../inputs/5pti.parsed
+Total number of rotations is 9240
+Assigning charges
+Using automatic calculation for grid size
+Span = 93.436 angstroms
+Grid size = 134
+Each Grid cube = 0.69728 angstroms
+Electrostatics are on
+Creating plans
+PCA TIMING SHOULD start here
+Setting up Static Structure
+  surfacing grid
+  electric field calculations ( one dot / grid sheet ) ......................................................................................................................................
+  one time forward FFT calculations
+  done
+Starting main loop through the rotations
+.G_DATA      1        0        146         -1  -12  -42         0   0   0
+G_DATA      1        0        144         11  -27  -28         0   0   0
+G_DATA      1        0        138         28   21   10         0   0   0
+.G_DATA      2        0        204         10   37   -1        12   0   0
+G_DATA      2        0        157        -33   27   -6        12   0   0
+G_DATA      2        0        148        -34  -12   -2        12   0   0
+.G_DATA      3        0        148        -33  -13   -3        24   0   0
+G_DATA      3        0        147        -36   28  -17        24   0   0
+G_DATA      3        0        147        -25  -23   20        24   0   0
+.G_DATA      4        0        156         28   26    0        36   0   0
+G_DATA      4        0        149          3   23  -48        36   0   0
+G_DATA      4        0        132        -22   33   -1        36   0   0
+.G_DATA      5        0        198          1  -42   -4        48   0   0
+G_DATA      5        0        156         28   22   17        48   0   0
+G_DATA      5        0        133         20   21  -37        48   0   0
+.G_DATA      6        0        155        -27  -16  -12        60   0   0
+G_DATA      6        0        140         28  -30   16        60   0   0
+G_DATA      6        0        131        -26  -24   29        60   0   0
+.G_DATA      7        0        148         34   16    3        72   0   0
+G_DATA      7        0        143         10   28   29        72   0   0
+G_DATA      7        0        143        -41   -7  -18        72   0   0
+.G_DATA      8        0        167        -38   13    0        84   0   0
+G_DATA      8        0        132          3   41  -16        84   0   0
+G_DATA      8        0        132          4   41  -16        84   0   0
+.G_DATA      9        0        152         20  -34    6        96   0   0
+G_DATA      9        0        146          6  -41  -17        96   0   0
+G_DATA      9        0        136         -9  -26  -41        96   0   0
+.G_DATA     10        0        173        -26  -22   18       108   0   0
+G_DATA     10        0        142         19   30   16       108   0   0
+G_DATA     10        0        135          8   43  -12       108   0   0
+PCA TIMING SHOULD stop here
+PCA STOPS HERE
+[1m[7m%[27m[1m[0m                                                                                                                                                                                                                   ]2;j@J: ~/projects/finalProject1516q2/sources/3D_Dock/progs]1;..3D_Dock/progs[0m[27m[24m[J[33mprogs ➤ [00m[K[201C[33m [00m[202D[?1h=//usr[1m/[0m[0m   sr/biun  n[1m/[0m[0m/ti
+[J[1;32mtic[0m*               [J[1;32mtidy[0m*              [J[1;32mtiff2icns[0m*         [J[1;32mtiffutil[0m*          [J[1;32mtime[0m*              [J[1;32mtimer_analyser.d[0m*  [J[1;32mtimerfires[0m*      [J[A[0m[27m[24m[8C/usr/bin/ti[K[190C[33m [00m[191Dm
+[J[A[20Ce !!./ftdock -static ../../../inputs/2pka.parsed -mobile ../../../inputs/5pti.parsed > /dev/bull    n
+[J[J[1;33mnsmb0[0m%  [J[1;33mnull[0m% [J[A[0m[27m[24m[8C/usr/bin/time ./ftdock -static ../../../inputs/2pka.parsed -mobile ../../../inputs/5pti.parsed > /dev/n[K[98C[33m [00m[99Dull[1m [0m[0m [?1l>
+[J]2;/usr/bin/time ./ftdock -static ../../../inputs/2pka.parsed -mobile  > ]1;/usr/bin/time       41.57 real        40.58 user         0.34 sys
+[1m[7m%[27m[1m[0m                                                                                                                                                                                                                   ]2;j@J: ~/projects/finalProject1516q2/sources/3D_Dock/progs]1;..3D_Dock/progs[0m[27m[24m[J[33mprogs ➤ [00m[K[201C[33m [00m[202D[?1h=...[?1l>
+]2;..]1;..[1m[7m%[27m[1m[0m                                                                                                                                                                                                                   ]2;j@J: ~/projects/finalProject1516q2/sources/3D_Dock]1;..urces/3D_Dock[0m[27m[24m[J[33m3D_Dock ➤ [00m[K[199C[33m [00m[200D[?1h=lls[?1l>
+]2;ls -G]1;ls[31mCOPYING[39;49m[0m    [31mCOPYRIGHT[39;49m[0m  [34mprogs[39;49m[0m      [34mscripts[39;49m[0m    typescript
+[1m[7m%[27m[1m[0m                                                                                                                                                                                                                   ]2;j@J: ~/projects/finalProject1516q2/sources/3D_Dock]1;..urces/3D_Dock[0m[27m[24m[J[33m3D_Dock ➤ [00m[K[199C[33m [00m[200D[?1h=pprogs[?1l>
+]2;progs]1;progs[1m[7m%[27m[1m[0m                                                                                                                                                                                                                   ]2;j@J: ~/projects/finalProject1516q2/sources/3D_Dock/progs]1;..3D_Dock/progs[0m[27m[24m[J[33mprogs ➤ [00m[K[201C[33m [00m[202D[?1h=mmake vl  clean[?1l>
+]2;make clean]1;makerm -f *.o core ftdock build randomspin
+[1m[7m%[27m[1m[0m                                                                                                                                                                                                                   ]2;j@J: ~/projects/finalProject1516q2/sources/3D_Dock/progs]1;..3D_Dock/progs[0m[27m[24m[J[33mprogs ➤ [00m[K[201C[33m [00m[202D[?1h=...[?1l>
+]2;..]1;..[1m[7m%[27m[1m[0m                                                                                                                                                                                                                   ]2;j@J: ~/projects/finalProject1516q2/sources/3D_Dock]1;..urces/3D_Dock[0m[27m[24m[J[33m3D_Dock ➤ [00m[K[199C[33m [00m[200D[?1h=...[?1l>
+]2;..]1;..[1m[7m%[27m[1m[0m                                                                                                                                                                                                                   ]2;j@J: ~/projects/finalProject1516q2/sources]1;..516q2/sources[0m[27m[24m[J[33msources ➤ [00m[K[199C[33m [00m[200D[?1h=...[?1l>
+]2;..]1;..[1m[7m%[27m[1m[0m                                                                                                                                                                                                                   ]2;j@J: ~/projects/finalProject1516q2]1;..Project1516q2[0m[27m[24m[J[33mfinalProject1516q2 ➤ [00m[K[188C[33m [00m[189D[?1h=...[?1l>
+]2;..]1;..[1m[7m%[27m[1m[0m                                                                                                                                                                                                                   ]2;j@J: ~/projects]1;~/projects[0m[27m[24m[J[33mprojects ➤ [00m[K[198C[33m [00m[199D[?1h=

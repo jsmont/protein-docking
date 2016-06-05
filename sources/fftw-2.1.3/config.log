@@ -1,0 +1,256 @@
+This file contains any messages produced by compilers while
+running configure, to aid debugging if configure makes a mistake.
+
+configure:590: checking for a BSD compatible install
+configure:643: checking whether build environment is sane
+configure:700: checking whether make sets ${MAKE}
+configure:746: checking for working aclocal
+configure:759: checking for working autoconf
+configure:772: checking for working automake
+configure:785: checking for working autoheader
+configure:798: checking for working makeinfo
+configure:905: checking type prefix for installed files
+configure:1006: checking for vendor's icc to be used instead of gcc
+configure:1010: checking for icc
+configure:1006: checking for vendor's cc to be used instead of gcc
+configure:1010: checking for cc
+configure:1040: checking for gcc
+configure:1153: checking whether the C compiler (gcc -O3 -march=native ) works
+configure:1169: gcc -o conftest -O3 -march=native   conftest.c  1>&5
+configure:1166:1: warning: type specifier missing, defaults to 'int' [-Wimplicit-int]
+main(){return(0);}
+^
+1 warning generated.
+configure:1195: checking whether the C compiler (gcc -O3 -march=native ) is a cross-compiler
+configure:1200: checking whether we are using GNU C
+configure:1209: gcc -E conftest.c
+configure:1228: checking whether gcc accepts -g
+configure:1262: checking whether we are using gcc 2.90 or later
+configure:1274: gcc -E conftest.c
+configure:1303: checking for a BSD compatible install
+configure:1356: checking whether make sets ${MAKE}
+configure:1385: checking for ranlib
+configure:1413: checking whether ln -s works
+configure:1486: checking host system type
+configure:1507: checking build system type
+configure:1536: checking for ld used by GCC
+configure:1599: checking if the linker (/Library/Developer/CommandLineTools/usr/bin/ld) is GNU ld
+configure:1615: checking for BSD-compatible nm
+ltconfig:603: checking for object suffix
+ltconfig:604: gcc -c -O3 -march=native  conftest.c 1>&5
+ltconfig:629: checking for executable suffix
+ltconfig:630: gcc -o conftest -O3 -march=native   conftest.c  1>&5
+conftest.c:1:1: warning: type specifier missing, defaults to 'int' [-Wimplicit-int]
+main () { return 0; }
+^
+1 warning generated.
+ltconfig:776: checking if gcc PIC flag -fPIC works
+ltconfig:777: gcc -c -O3 -march=native -fPIC -DPIC  conftest.c 1>&5
+ltconfig:829: checking if gcc supports -c -o file.o
+ltconfig:830: gcc -c -O3 -march=native -o out/conftest2.o  conftest.c 1>&5
+ltconfig:862: checking if gcc supports -c -o file.lo
+ltconfig:863: gcc -c -O3 -march=native -c -o conftest.lo  conftest.c 1>&5
+ltconfig:914: checking if gcc supports -fno-rtti -fno-exceptions
+ltconfig:915: gcc -c -O3 -march=native -fno-rtti -fno-exceptions -c conftest.c  conftest.c 1>&5
+ltconfig:958: checking if gcc static flag -static works
+ltconfig:959: gcc -o conftest -O3 -march=native   -static conftest.c  1>&5
+conftest.c:1:1: warning: type specifier missing, defaults to 'int' [-Wimplicit-int]
+main(){return(0);}
+^
+1 warning generated.
+ld: library not found for -lcrt0.o
+clang: error: linker command failed with exit code 1 (use -v to see invocation)
+ltconfig:1592: checking if global_symbol_pipe works
+ltconfig:1593: gcc -c -O3 -march=native  conftest.c 1>&5
+conftest.c:9:1: warning: type specifier missing, defaults to 'int' [-Wimplicit-int]
+main(){nm_test_var='a';nm_test_func();return(0);}
+^
+1 warning generated.
+ltconfig:1596: eval "/usr/bin/nm -B conftest.o | sed -n -e 's/^.*[ 	]\([BCDEGRST]\)[ 	][ 	]*\(\)\([_A-Za-z][_A-Za-z0-9]*\)$/\1 \2\3 \3/p' > conftest.nm"
+cannot find nm_test_var in conftest.nm
+ltconfig:1592: checking if global_symbol_pipe works
+ltconfig:1593: gcc -c -O3 -march=native  conftest.c 1>&5
+conftest.c:9:1: warning: type specifier missing, defaults to 'int' [-Wimplicit-int]
+main(){nm_test_var='a';nm_test_func();return(0);}
+^
+1 warning generated.
+ltconfig:1596: eval "/usr/bin/nm -B conftest.o | sed -n -e 's/^.*[ 	]\([BCDEGRST]\)[ 	][ 	]*\(_\)\([_A-Za-z][_A-Za-z0-9]*\)$/\1 \2\3 \3/p' > conftest.nm"
+ltconfig:1648: gcc -o conftest -O3 -march=native -fno-builtin -fno-rtti -fno-exceptions   conftest.c conftstm.o 1>&5
+conftest.c:6:1: warning: variable named 'main' with external linkage has undefined behavior [-Wmain]
+extern char main;
+^
+1 warning generated.
+configure:1813: checking for perl
+configure:1849: checking for f77
+configure:1849: checking for xlf
+configure:1849: checking for xlf77
+configure:1849: checking for cf77
+configure:1849: checking for fl32
+configure:1849: checking for g77
+configure:1849: checking for fort77
+configure:1849: checking for f90
+configure:1849: checking for xlf90
+configure:2812: checking whether gcc accepts -mpreferred-stack-boundary=4
+configure:2922: checking for sqrt in -lm
+configure:2941: gcc -o conftest -O3 -march=native   conftest.c -lm   1>&5
+configure:2934:6: warning: incompatible redeclaration of library function 'sqrt' [-Wincompatible-library-redeclaration]
+char sqrt();
+     ^
+configure:2934:6: note: 'sqrt' is a builtin with type 'double (double)'
+1 warning generated.
+configure:2970: checking how to run the C preprocessor
+configure:2991: gcc -E  conftest.c >/dev/null 2>conftest.out
+configure:3050: checking for ANSI C header files
+configure:3063: gcc -E  conftest.c >/dev/null 2>conftest.out
+configure:3130: gcc -o conftest -O3 -march=native   conftest.c -lm  1>&5
+configure:3125:67: warning: implicitly declaring library function 'exit' with type 'void (int) __attribute__((noreturn))' [-Wimplicit-function-declaration]
+if (XOR (islower (i), ISLOWER (i)) || toupper (i) != TOUPPER (i)) exit(2);
+                                                                  ^
+configure:3125:67: note: include the header <stdlib.h> or explicitly provide a declaration for 'exit'
+1 warning generated.
+configure:3157: checking for sys/time.h
+configure:3167: gcc -E  conftest.c >/dev/null 2>conftest.out
+configure:3157: checking for unistd.h
+configure:3167: gcc -E  conftest.c >/dev/null 2>conftest.out
+configure:3157: checking for getopt.h
+configure:3167: gcc -E  conftest.c >/dev/null 2>conftest.out
+configure:3157: checking for malloc.h
+configure:3167: gcc -E  conftest.c >/dev/null 2>conftest.out
+configure:3163:10: fatal error: 'malloc.h' file not found
+#include <malloc.h>
+         ^
+1 error generated.
+configure: failed program was:
+#line 3162 "configure"
+#include "confdefs.h"
+#include <malloc.h>
+configure:3195: checking for working const
+configure:3249: gcc -c -O3 -march=native  conftest.c 1>&5
+configure:3270: checking for size_t
+configure:3303: checking whether time.h and sys/time.h may both be included
+configure:3317: gcc -c -O3 -march=native  conftest.c 1>&5
+configure:3355: checking for working alloca.h
+configure:3367: gcc -o conftest -O3 -march=native   conftest.c -lm  1>&5
+configure:3388: checking for alloca
+configure:3421: gcc -o conftest -O3 -march=native   conftest.c -lm  1>&5
+configure:3589: checking for gettimeofday
+configure:3617: gcc -o conftest -O3 -march=native   conftest.c -lm  1>&5
+configure:3644: checking for BSDgettimeofday
+configure:3672: gcc -o conftest -O3 -march=native   conftest.c -lm  1>&5
+Undefined symbols for architecture x86_64:
+  "_BSDgettimeofday", referenced from:
+      _main in conftest-a10ea3.o
+ld: symbol(s) not found for architecture x86_64
+clang: error: linker command failed with exit code 1 (use -v to see invocation)
+configure: failed program was:
+#line 3649 "configure"
+#include "confdefs.h"
+/* System header to define __stub macros and hopefully few prototypes,
+    which can conflict with char BSDgettimeofday(); below.  */
+#include <assert.h>
+/* Override any gcc2 internal prototype to avoid an error.  */
+/* We use char because int might match the return type of a gcc2
+    builtin and then its argument prototype would still apply.  */
+char BSDgettimeofday();
+
+int main() {
+
+/* The GNU C library defines this for functions which it implements
+    to always fail with ENOSYS.  Some functions are actually named
+    something starting with __ and the normal name is an alias.  */
+#if defined (__stub_BSDgettimeofday) || defined (__stub___BSDgettimeofday)
+choke me
+#else
+BSDgettimeofday();
+#endif
+
+; return 0; }
+configure:3699: checking for gethrtime
+configure:3727: gcc -o conftest -O3 -march=native   conftest.c -lm  1>&5
+Undefined symbols for architecture x86_64:
+  "_gethrtime", referenced from:
+      _main in conftest-aa2ec7.o
+ld: symbol(s) not found for architecture x86_64
+clang: error: linker command failed with exit code 1 (use -v to see invocation)
+configure: failed program was:
+#line 3704 "configure"
+#include "confdefs.h"
+/* System header to define __stub macros and hopefully few prototypes,
+    which can conflict with char gethrtime(); below.  */
+#include <assert.h>
+/* Override any gcc2 internal prototype to avoid an error.  */
+/* We use char because int might match the return type of a gcc2
+    builtin and then its argument prototype would still apply.  */
+char gethrtime();
+
+int main() {
+
+/* The GNU C library defines this for functions which it implements
+    to always fail with ENOSYS.  Some functions are actually named
+    something starting with __ and the normal name is an alias.  */
+#if defined (__stub_gethrtime) || defined (__stub___gethrtime)
+choke me
+#else
+gethrtime();
+#endif
+
+; return 0; }
+configure:3754: checking for getopt
+configure:3782: gcc -o conftest -O3 -march=native   conftest.c -lm  1>&5
+configure:3809: checking for getopt_long
+configure:3837: gcc -o conftest -O3 -march=native   conftest.c -lm  1>&5
+configure:3863: checking for isnan
+configure:3873: gcc -o conftest -O3 -march=native   conftest.c -lm  1>&5
+configure:3894: checking for hrtime_t
+configure:3907: gcc -o conftest -O3 -march=native   conftest.c -lm  1>&5
+configure:3903:1: error: unknown type name 'hrtime_t'; did you mean 'time_t'?
+hrtime_t foobar;
+^~~~~~~~
+time_t
+/usr/include/sys/_types/_time_t.h:30:26: note: 'time_t' declared here
+typedef __darwin_time_t         time_t; 
+                                ^
+1 error generated.
+configure: failed program was:
+#line 3896 "configure"
+#include "confdefs.h"
+
+#ifdef HAVE_SYS_TIME_H
+#include <sys/time.h>
+#endif
+
+int main() {
+hrtime_t foobar;
+; return 0; }
+configure:3926: checking size of int
+configure:3945: gcc -o conftest -O3 -march=native   conftest.c -lm  1>&5
+configure:3936:1: warning: type specifier missing, defaults to 'int' [-Wimplicit-int]
+main()
+^
+configure:3939:11: warning: implicitly declaring library function 'exit' with type 'void (int) __attribute__((noreturn))' [-Wimplicit-function-declaration]
+  if (!f) exit(1);
+          ^
+configure:3939:11: note: include the header <stdlib.h> or explicitly provide a declaration for 'exit'
+configure:3940:22: warning: format specifies type 'int' but the argument has type 'unsigned long' [-Wformat]
+  fprintf(f, "%d\n", sizeof(int));
+              ~~     ^~~~~~~~~~~
+              %lu
+3 warnings generated.
+configure:3965: checking size of long long
+configure:3984: gcc -o conftest -O3 -march=native   conftest.c -lm  1>&5
+configure:3975:1: warning: type specifier missing, defaults to 'int' [-Wimplicit-int]
+main()
+^
+configure:3978:11: warning: implicitly declaring library function 'exit' with type 'void (int) __attribute__((noreturn))' [-Wimplicit-function-declaration]
+  if (!f) exit(1);
+          ^
+configure:3978:11: note: include the header <stdlib.h> or explicitly provide a declaration for 'exit'
+configure:3979:22: warning: format specifies type 'int' but the argument has type 'unsigned long' [-Wformat]
+  fprintf(f, "%d\n", sizeof(long long));
+              ~~     ^~~~~~~~~~~~~~~~~
+              %lu
+3 warnings generated.
+configure:4023: checking whether gcc accepts -fkeep-programmers-inline
+configure:4049: checking whether gcc accepts -vomit-frame-pointer
+configure:4740: checking for mpicc
+configure:4740: checking for hcc
