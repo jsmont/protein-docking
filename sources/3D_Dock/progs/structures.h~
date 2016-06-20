@@ -31,11 +31,7 @@ Foundation, Inc., 59 Temple Place - Suite 330, Boston, MA  02111-1307, USA.
 #include <math.h>
 #include <stdlib.h>
 #include <time.h>
-#include "rfftw.h"
 #include "immintrin.h"
-
-
-
 
 /************/
 
@@ -46,11 +42,12 @@ Foundation, Inc., 59 Temple Place - Suite 330, Boston, MA  02111-1307, USA.
 #define NUMBER_OF_CONSTRAINTS 50
 #define SAVED_HEADER_LINES 1000
 
+/************/
 /* I do not advise messing with anything below here */
 
 /************/
 
-/* Macros - really, you don't want to touch these! */
+/* Macros - realy, you don't want to touch these! */
 
 #define gaddress(x,y,z,grid_size) ( (z) + ( 2 * ( (grid_size) / 2 + 1 ) ) * ( (y) + (grid_size) * (x) ) )
 
@@ -61,51 +58,32 @@ Foundation, Inc., 59 Temple Place - Suite 330, Boston, MA  02111-1307, USA.
 
 #define GENERAL_MEMORY_PROBLEM printf( "You do not have enough memory ([m|re]alloc failure)\nDying\n\n" ) ; exit( EXIT_FAILURE ) ;
 
-#define pyth( x1 ,y1 ,z1 ,x2 ,y2 ,z2 ) (sqrt( ( ( x1 - x2 ) * ( x1 - x2 ) ) + ( ( y1 - y2 ) * ( y1 - y2 ) ) + ( ( z1 - z2 ) * ( z1 - z2 ) ) ) );
-
-#define ADD(a,b) _mm256_add_ps(a,b)
-#define AND(a,b) _mm256_and_ps(a,b)
-#define ANDNOT(a,b) _mm256_andnot_ps (a,b)
-#define CMPGE(a,b) _mm256_cmp_ps(a,b,_CMP_GE_OS)
-#define CMPLE(a,b) _mm256_cmp_ps(a,b,_CMP_LE_OS)
-#define DIV(a,b) _mm256_div_ps(a,b)
-#define LOAD(p) _mm256_load_ps(p)
-#define MAX(a,b) _mm256_max_ps(a,b)
-#define MUL(a,b) _mm256_mul_ps(a,b)
-#define OR(a,b) _mm256_or_ps(a,b)
-#define SET1(a) _mm256_set1_ps(a)
-#define SQRT(a) _mm256_sqrt_ps(a)
-#define SUB(a,b) _mm256_sub_ps(a,b)
-
-#define ELEMENTS_PER_ITERACIO 8
-
 /************/
 
 /* The structures comprising a Structure (representation of an organic molecule in 3D) */
 
-
 struct Atom{
 	int		serial ;
 	char		atom_name[5] ;
-	float	coord[4] ;
-	float	occupancy ;
-	float	temp_factor ;
-	float	charge ;
+	float		coord[4] ;
+	float		occupancy ;
+	float		temp_factor ;
+	float		charge ;
 } ;
 
 struct Amino_Acid{	
-	char			res_name[4] ;
-	char			chainID[2] ;
-	char			res_seq_plus_iCode[6] ;
-	char			olc[2] ;
-	int			nc ;
-	int			size ;
+	char		res_name[4] ;
+	char		chainID[2] ;
+	char		res_seq_plus_iCode[6] ;
+	char		olc[2] ;
+	int		nc ;
+	int		size ;
 	struct Atom	*Atom ;
 } ;
 
 struct Structure{
-	char				ident[256] ;
-	int				length ;
+	char			ident[256] ;
+	int			length ;
 	struct Amino_Acid	*Residue ;	
 } ;
 
@@ -125,47 +103,59 @@ struct Angle{
 /* Score structure */
 
 struct Score{
-	int		score ;
-	int		coord[4] ;
-     int		angle[4] ;
-     float	rpscore ;
-  	int		extra ;
+	int	score ;
+	int	coord[4] ;
+        int	angle[4] ;
+        float	rpscore ;
+        int	extra ;
 } ;
-
-
-/* Estructura auxiliar */
-
-struct cache_line{
-
-	//int elements_loaded;
-	float x[ELEMENTS_PER_ITERACIO];
-	float y[ELEMENTS_PER_ITERACIO];
-	float z[ELEMENTS_PER_ITERACIO];
-	float charge[ELEMENTS_PER_ITERACIO];
-};
-
 
 /************/
 
 /* Matrix Structure */
 
 struct Matrix{
-	char		description[100] ;
+	char	description[100] ;
 	float	distance ;
 	float	score[21][21] ;
 } ;
 
 /************/
 
+#define BYTE_BOUNDARY_ALIGNMENT 32
+
+#define ADD(a,b) _mm256_add_ps(a,b)
+#define AND(a,b) _mm256_and_ps(a,b)
+#define ANDNOT(a,b) _mm256_andnot_ps (a,b)
+#define CMPGE(a,b) _mm256_cmp_ps(a,b,_CMP_GE_OS)
+#define CMPLE(a,b) _mm256_cmp_ps(a,b,_CMP_LE_OS)
+#define DIV(a,b) _mm256_div_ps(a,b)
+#define LOAD(p) _mm256_load_ps(p)
+#define MAX(a,b) _mm256_max_ps(a,b)
+#define MUL(a,b) _mm256_mul_ps(a,b)
+#define OR(a,b) _mm256_or_ps(a,b)
+#define SET1(a) _mm256_set1_ps(a)
+#define SQRT(a) _mm256_sqrt_ps(a)
+#define SUB(a,b) _mm256_sub_ps(a,b)
+
+#define ELEMENTS_PER_PACKAGE 8 // number of elements per package
+
+typedef float fftw_real;
+
+typedef struct {
+  float	xs[ELEMENTS_PER_PACKAGE] ; // x coordinates
+  float	ys[ELEMENTS_PER_PACKAGE] ; // y coordinates
+  float	zs[ELEMENTS_PER_PACKAGE] ; // x coordinates
+  float	qs[ELEMENTS_PER_PACKAGE] ; // charges
+} Package;
+
+/************/
+
 /* Memory allocation sizes */
 
-
-#define sizeof_Atom			sizeof( struct Atom )
+#define sizeof_Atom		sizeof( struct Atom )
 #define sizeof_Amino_Acid	sizeof( struct Amino_Acid )
-#define sizeof_Structure		sizeof( struct Structure )
-#define SIZEOF_CACHE_LINE     sizeof( struct cache_line )
-
-
+#define sizeof_Structure	sizeof( struct Structure )
 
 /************/
 

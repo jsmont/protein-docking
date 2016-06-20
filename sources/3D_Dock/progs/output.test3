@@ -1,0 +1,65 @@
+
+          3D-Dock Suite (March 2001)
+          Copyright (C) 1997-2000 Gidon Moont
+          This program comes with ABSOLUTELY NO WARRANTY
+          for details see license. This program is free software,
+          and you may redistribute it under certain conditions.
+
+          Biomolecular Modelling Laboratory
+          Imperial Cancer Research Fund
+          44 Lincoln's Inn Fields
+          London WC2A 3PX
+          +44 (0)20 7269 3348
+          http://www.bmm.icnet.uk/
+
+Starting FTDock (v2.0) global search program
+  reading parsed pdb file: 4hhb.parsed
+  reading parsed pdb file: 5pti.parsed
+Total number of rotations is 9240
+Assigning charges
+Using automatic calculation for grid size
+Span = 111.161 angstroms
+Grid size = 158
+Each Grid cube = 0.70355 angstroms
+Electrostatics are on
+Creating plans
+PCA TIMING SHOULD start here
+Setting up Static Structure
+  surfacing grid
+  electric field calculations ( one dot / grid sheet ) ..............................................................................................................................................................
+  one time forward FFT calculations
+  done
+Starting main loop through the rotations
+.G_DATA      1        0        233        -47  -29   -6         0   0   0
+G_DATA      1        0        159         57   12    4         0   0   0
+G_DATA      1        0        145         58  -12    3         0   0   0
+.G_DATA      2        0        190         29   30   30        12   0   0
+G_DATA      2        0        157         57   14    5        12   0   0
+G_DATA      2        0        148         28   29   30        12   0   0
+.G_DATA      3        0        179        -40   27   26        24   0   0
+G_DATA      3        0        151        -38   35   17        24   0   0
+G_DATA      3        0        151        -24  -26  -44        24   0   0
+.G_DATA      4        0        164         -6   18   47        36   0   0
+G_DATA      4        0        148         22    4  -58        36   0   0
+G_DATA      4        0        140        -12  -36  -37        36   0   0
+.G_DATA      5        0        155         46  -24  -15        48   0   0
+G_DATA      5        0        149         43   34  -15        48   0   0
+G_DATA      5        0        142         25  -19  -37        48   0   0
+.G_DATA      6        0        176         34   44   -3        60   0   0
+G_DATA      6        0        168         47   12   38        60   0   0
+G_DATA      6        0        153        -22  -26   34        60   0   0
+.G_DATA      7        0        190         20   47  -22        72   0   0
+G_DATA      7        0        176         54  -10   34        72   0   0
+G_DATA      7        0        175         19   47  -22        72   0   0
+.G_DATA      8        0        230         18   32   31        84   0   0
+G_DATA      8        0        186         18   31   30        84   0   0
+G_DATA      8        0        173        -13  -20   46        84   0   0
+.G_DATA      9        0        174         -4  -45   15        96   0   0
+G_DATA      9        0        150         42  -34   -6        96   0   0
+G_DATA      9        0        150         43  -34   -6        96   0   0
+.G_DATA     10        0        151         -2  -46   16       108   0   0
+G_DATA     10        0        150         42   35  -17       108   0   0
+G_DATA     10        0        145         -8  -21   47       108   0   0
+PCA TIMING SHOULD stop here
+PCA STOPS HERE
+Tiempo de ejecucion = 30.669156 

@@ -12,7 +12,7 @@
 
 # This line you will definitely have to edit
 
-FFTW_DIR        = ../../fftw-2.1.3/installation/
+FFTW_DIR        = /home/christian/Universidad/PCA/proyectofinal/sources/fftw-2.1.3/installation
 
 #############
 
@@ -24,7 +24,7 @@ SHELL           = /bin/sh
 
 CC              = gcc
 
-CC_FLAGS        = -O3 -march=native -pg -g 
+CC_FLAGS        = -O3 -march=native -pg -g -static 
 STRIP           = strip
 
 CC_LINKERS      = -lm

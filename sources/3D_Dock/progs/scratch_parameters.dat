@@ -2,8 +2,8 @@
 Global Scan
 
 Command line controllable values
-Static molecule                    :: ../../../inputs/2pka.parsed
-Mobile molecule                    :: ../../../inputs/5pti.parsed
+Static molecule                    :: 2pka.parsed
+Mobile molecule                    :: 5pti.parsed
 Output file name                   :: ftdock_global.dat
 
 Global grid size                   ::    134      (default calculated)
